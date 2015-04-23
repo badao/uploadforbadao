@@ -1,0 +1,2 @@
+C:\Users\Robert\Documents\Repos\Diana\Diana\obj\Debug\Diana.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Repos\Diana\Diana\bin\Release\Diana.exe.config
